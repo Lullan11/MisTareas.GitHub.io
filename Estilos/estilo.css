@@ -1,0 +1,41 @@
+/* definimos estilos para la pagina */
+body {
+    background-color: rgb(122, 77, 114);
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: #000;
+}
+
+.Diferente {
+    color: rgb(255, 255, 255);
+}
+
+hr {
+    color: #2e1b1b;
+    border: 3px solid;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.iper {
+    text-align: center;
+    background-color: #2e1b1b;
+}
+
+div {
+    text-align: center;
+}
+
+a{
+    color: rgb(200, 255, 0);
+}
+
